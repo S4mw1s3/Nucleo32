@@ -1,0 +1,1340 @@
+Archive member included because of file (symbol)
+
+/usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/libgcc.a(_udivsi3.o)
+                              ./build/stm32l0xx_hal.o (__aeabi_uidiv)
+/usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/libgcc.a(_dvmd_tls.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__atexit.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__register_exitproc)
+/usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o (exit)
+/usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-fini.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__libc_fini_array)
+/usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__atexit.o) (_global_impure_ptr)
+/usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o (__libc_init_array)
+/usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memset.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o (memset)
+/usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o) (__call_exitprocs)
+/usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o)
+                              /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o) (atexit)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crti.o
+ .data          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crti.o
+ .bss           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crti.o
+ .data          0x00000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtbegin.o
+ .text          0x00000000       0x74 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .data          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .bss           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.extab     0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1c /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .group         0x00000000        0x8 ./build/main.o
+ .text          0x00000000        0x0 ./build/main.o
+ .data          0x00000000        0x0 ./build/main.o
+ .text          0x00000000       0x14 ./build/startup_stm32l031xx.o
+ .data          0x00000000        0x0 ./build/startup_stm32l031xx.o
+ .bss           0x00000000        0x0 ./build/startup_stm32l031xx.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .text          0x00000000        0x0 ./build/stm32l0xx_hal.o
+ .data          0x00000000        0x0 ./build/stm32l0xx_hal.o
+ .text.HAL_DeInit
+                0x00000000       0x4c ./build/stm32l0xx_hal.o
+ .text.HAL_MspDeInit
+                0x00000000        0x8 ./build/stm32l0xx_hal.o
+ .text.HAL_SuspendTick
+                0x00000000       0x18 ./build/stm32l0xx_hal.o
+ .text.HAL_ResumeTick
+                0x00000000       0x18 ./build/stm32l0xx_hal.o
+ .text.HAL_GetHalVersion
+                0x00000000       0x10 ./build/stm32l0xx_hal.o
+ .text.HAL_GetREVID
+                0x00000000       0x14 ./build/stm32l0xx_hal.o
+ .text.HAL_GetDEVID
+                0x00000000       0x18 ./build/stm32l0xx_hal.o
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x00000000       0x18 ./build/stm32l0xx_hal.o
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x00000000       0x18 ./build/stm32l0xx_hal.o
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x00000000       0x18 ./build/stm32l0xx_hal.o
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x00000000       0x18 ./build/stm32l0xx_hal.o
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x00000000       0x18 ./build/stm32l0xx_hal.o
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x00000000       0x18 ./build/stm32l0xx_hal.o
+ .text.HAL_DBGMCU_DBG_EnableLowPowerConfig
+                0x00000000       0x20 ./build/stm32l0xx_hal.o
+ .text.HAL_DBGMCU_DBG_DisableLowPowerConfig
+                0x00000000       0x20 ./build/stm32l0xx_hal.o
+ .text.HAL_SYSCFG_GetBootMode
+                0x00000000       0x18 ./build/stm32l0xx_hal.o
+ .text.HAL_SYSCFG_EnableVREFINT
+                0x00000000       0x18 ./build/stm32l0xx_hal.o
+ .text.HAL_SYSCFG_DisableVREFINT
+                0x00000000       0x18 ./build/stm32l0xx_hal.o
+ .text.HAL_SYSCFG_VREFINT_OutputSelect
+                0x00000000       0x2c ./build/stm32l0xx_hal.o
+ .text.HAL_SYSCFG_Enable_Lock_VREFINT
+                0x00000000       0x1c ./build/stm32l0xx_hal.o
+ .text.HAL_SYSCFG_Disable_Lock_VREFINT
+                0x00000000       0x18 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000      0x7e4 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x8a ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x2e ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x28 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x3a ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x2e ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0xa2 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000      0x20e ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x34 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x26 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000      0x329 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000     0x3c33 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x3c ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000     0x31a7 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x89 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x3a ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x52 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x19 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000      0x16d ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0xf5 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x22 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x91 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x16 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000      0x16d ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x5e ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000      0x7eb ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000      0x3fa ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000      0x14d ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000      0x114 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x28 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000      0x120 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000      0x24f ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x12 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000      0x18f ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000       0x16 ./build/stm32l0xx_hal.o
+ .debug_macro   0x00000000      0x123 ./build/stm32l0xx_hal.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .text          0x00000000        0x0 ./build/stm32l0xx_hal_cortex.o
+ .data          0x00000000        0x0 ./build/stm32l0xx_hal_cortex.o
+ .bss           0x00000000        0x0 ./build/stm32l0xx_hal_cortex.o
+ .text.NVIC_EnableIRQ
+                0x00000000       0x2c ./build/stm32l0xx_hal_cortex.o
+ .text.NVIC_DisableIRQ
+                0x00000000       0x2c ./build/stm32l0xx_hal_cortex.o
+ .text.NVIC_GetPendingIRQ
+                0x00000000       0x30 ./build/stm32l0xx_hal_cortex.o
+ .text.NVIC_SetPendingIRQ
+                0x00000000       0x2c ./build/stm32l0xx_hal_cortex.o
+ .text.NVIC_ClearPendingIRQ
+                0x00000000       0x2c ./build/stm32l0xx_hal_cortex.o
+ .text.NVIC_GetPriority
+                0x00000000       0x78 ./build/stm32l0xx_hal_cortex.o
+ .text.NVIC_SystemReset
+                0x00000000       0x20 ./build/stm32l0xx_hal_cortex.o
+ .text.HAL_NVIC_EnableIRQ
+                0x00000000       0x20 ./build/stm32l0xx_hal_cortex.o
+ .text.HAL_NVIC_DisableIRQ
+                0x00000000       0x20 ./build/stm32l0xx_hal_cortex.o
+ .text.HAL_NVIC_SystemReset
+                0x00000000        0xc ./build/stm32l0xx_hal_cortex.o
+ .text.HAL_NVIC_GetPriority
+                0x00000000       0x24 ./build/stm32l0xx_hal_cortex.o
+ .text.HAL_NVIC_SetPendingIRQ
+                0x00000000       0x20 ./build/stm32l0xx_hal_cortex.o
+ .text.HAL_NVIC_GetPendingIRQ
+                0x00000000       0x24 ./build/stm32l0xx_hal_cortex.o
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x00000000       0x20 ./build/stm32l0xx_hal_cortex.o
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x00000000       0x34 ./build/stm32l0xx_hal_cortex.o
+ .text.HAL_SYSTICK_IRQHandler
+                0x00000000        0xc ./build/stm32l0xx_hal_cortex.o
+ .text.HAL_SYSTICK_Callback
+                0x00000000        0x8 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000      0x7e4 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x8a ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x2e ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x28 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x3a ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x2e ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0xa2 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000      0x20e ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x34 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x26 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000      0x329 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000     0x3c33 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x3c ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000     0x31a7 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x89 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x3a ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x52 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x19 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000      0x16d ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0xf5 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x22 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x91 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x16 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000      0x16d ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x5e ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000      0x7eb ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000      0x3fa ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000      0x14d ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000      0x114 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x28 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000      0x120 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000      0x24f ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x12 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000      0x18f ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000       0x16 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00000000      0x123 ./build/stm32l0xx_hal_cortex.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_gpio.o
+ .text          0x00000000        0x0 ./build/stm32l0xx_hal_gpio.o
+ .data          0x00000000        0x0 ./build/stm32l0xx_hal_gpio.o
+ .bss           0x00000000        0x0 ./build/stm32l0xx_hal_gpio.o
+ .text.HAL_GPIO_DeInit
+                0x00000000      0x1bc ./build/stm32l0xx_hal_gpio.o
+ .text.HAL_GPIO_WritePin
+                0x00000000       0x30 ./build/stm32l0xx_hal_gpio.o
+ .text.HAL_GPIO_LockPin
+                0x00000000       0x54 ./build/stm32l0xx_hal_gpio.o
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000       0x34 ./build/stm32l0xx_hal_gpio.o
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000       0x14 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000      0x7e4 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x8a ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x2e ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x28 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x3a ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x2e ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0xa2 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000      0x20e ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x34 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x26 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000      0x329 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000     0x3c33 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x3c ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000     0x31a7 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x89 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x3a ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x52 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x19 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000      0x16d ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0xf5 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x22 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x91 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x16 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000      0x16d ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x5e ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000      0x7eb ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000      0x3fa ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000      0x14d ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000      0x114 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x28 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000      0x120 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000      0x24f ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x12 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000      0x18f ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000       0x16 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x00000000      0x123 ./build/stm32l0xx_hal_gpio.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .text          0x00000000        0x0 ./build/stm32l0xx_hal_rcc.o
+ .data          0x00000000        0x0 ./build/stm32l0xx_hal_rcc.o
+ .bss           0x00000000        0x0 ./build/stm32l0xx_hal_rcc.o
+ .text.HAL_RCC_DeInit
+                0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .text.HAL_RCC_MCOConfig
+                0x00000000      0x108 ./build/stm32l0xx_hal_rcc.o
+ .text.HAL_RCC_EnableCSS
+                0x00000000       0x1c ./build/stm32l0xx_hal_rcc.o
+ .text.HAL_RCC_GetPCLK1Freq
+                0x00000000       0x30 ./build/stm32l0xx_hal_rcc.o
+ .text.HAL_RCC_GetPCLK2Freq
+                0x00000000       0x30 ./build/stm32l0xx_hal_rcc.o
+ .text.HAL_RCC_GetOscConfig
+                0x00000000      0x138 ./build/stm32l0xx_hal_rcc.o
+ .text.HAL_RCC_GetClockConfig
+                0x00000000       0x60 ./build/stm32l0xx_hal_rcc.o
+ .text.HAL_RCC_NMI_IRQHandler
+                0x00000000       0x24 ./build/stm32l0xx_hal_rcc.o
+ .text.HAL_RCC_CSSCallback
+                0x00000000        0x8 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000      0x7e4 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x8a ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x2e ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x28 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x3a ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x2e ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0xa2 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000      0x20e ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x34 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x26 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000      0x329 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000     0x3c33 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x3c ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000     0x31a7 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x89 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x3a ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x52 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x19 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000      0x16d ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0xf5 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x22 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x91 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x16 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000      0x16d ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x5e ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000      0x7eb ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000      0x3fa ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000      0x14d ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000      0x114 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x28 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000      0x120 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000      0x24f ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x12 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000      0x18f ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000       0x16 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x00000000      0x123 ./build/stm32l0xx_hal_rcc.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_it.o
+ .text          0x00000000        0x0 ./build/stm32l0xx_it.o
+ .data          0x00000000        0x0 ./build/stm32l0xx_it.o
+ .bss           0x00000000        0x0 ./build/stm32l0xx_it.o
+ .text.MemManage_Handler
+                0x00000000        0x8 ./build/stm32l0xx_it.o
+ .text.BusFault_Handler
+                0x00000000        0x8 ./build/stm32l0xx_it.o
+ .text.UsageFault_Handler
+                0x00000000        0x8 ./build/stm32l0xx_it.o
+ .text.DebugMon_Handler
+                0x00000000        0x8 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000      0x7e4 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x8a ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x2e ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x28 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x3a ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x2e ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0xa2 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000      0x20e ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x34 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x26 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000      0x329 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000     0x3c33 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x3c ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000     0x31a7 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x89 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x3a ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x52 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x19 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000      0x16d ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0xf5 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x22 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x91 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x16 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000      0x16d ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x5e ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000      0x7eb ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000      0x3fa ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000      0x14d ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000      0x114 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x28 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000      0x120 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000      0x24f ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x12 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000      0x18f ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0x16 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000      0x123 ./build/stm32l0xx_it.o
+ .debug_macro   0x00000000       0xb2 ./build/stm32l0xx_it.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/stm32l0xx_nucleo_32.o
+ .text          0x00000000        0x0 ./build/stm32l0xx_nucleo_32.o
+ .data          0x00000000        0x4 ./build/stm32l0xx_nucleo_32.o
+ .bss           0x00000000        0x0 ./build/stm32l0xx_nucleo_32.o
+ .rodata        0x00000000        0x4 ./build/stm32l0xx_nucleo_32.o
+ .text.BSP_GetVersion
+                0x00000000       0x10 ./build/stm32l0xx_nucleo_32.o
+ .text.BSP_LED_Init
+                0x00000000       0x94 ./build/stm32l0xx_nucleo_32.o
+ .text.BSP_LED_On
+                0x00000000       0x38 ./build/stm32l0xx_nucleo_32.o
+ .text.BSP_LED_Off
+                0x00000000       0x38 ./build/stm32l0xx_nucleo_32.o
+ .text.BSP_LED_Toggle
+                0x00000000       0x38 ./build/stm32l0xx_nucleo_32.o
+ .debug_info    0x00000000      0x470 ./build/stm32l0xx_nucleo_32.o
+ .debug_abbrev  0x00000000      0x14a ./build/stm32l0xx_nucleo_32.o
+ .debug_loc     0x00000000      0x10c ./build/stm32l0xx_nucleo_32.o
+ .debug_aranges
+                0x00000000       0x40 ./build/stm32l0xx_nucleo_32.o
+ .debug_ranges  0x00000000       0x30 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000      0x240 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000      0x7e4 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x8a ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x2e ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x28 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x3a ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x2e ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0xa2 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000      0x20e ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x34 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x26 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000      0x329 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000     0x3c33 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x3c ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000     0x31a7 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x89 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x3a ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x52 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x19 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000      0x16d ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x10 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0xf5 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x22 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x91 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x16 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000      0x16d ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x5e ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000      0x7eb ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000      0x3fa ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000      0x14d ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000      0x114 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x28 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000      0x120 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000      0x24f ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x12 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000      0x18f ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0x16 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000      0x123 ./build/stm32l0xx_nucleo_32.o
+ .debug_macro   0x00000000       0xac ./build/stm32l0xx_nucleo_32.o
+ .debug_line    0x00000000      0x51f ./build/stm32l0xx_nucleo_32.o
+ .debug_str     0x00000000    0x412a2 ./build/stm32l0xx_nucleo_32.o
+ .comment       0x00000000       0x71 ./build/stm32l0xx_nucleo_32.o
+ .ARM.attributes
+                0x00000000       0x32 ./build/stm32l0xx_nucleo_32.o
+ .debug_frame   0x00000000       0xac ./build/stm32l0xx_nucleo_32.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .group         0x00000000        0x8 ./build/system_stm32l0xx.o
+ .text          0x00000000        0x0 ./build/system_stm32l0xx.o
+ .bss           0x00000000        0x0 ./build/system_stm32l0xx.o
+ .text.SystemCoreClockUpdate
+                0x00000000      0x13c ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000      0x7e4 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x2e ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x28 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x3a ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x10 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x2e ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0xa2 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000      0x20e ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x34 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x26 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000      0x329 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000     0x3c33 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x3c ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x8a ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000     0x31a7 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x10 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x89 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x10 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x3a ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x52 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x19 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000      0x16d ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x10 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0xf5 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x22 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x91 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x16 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000      0x16d ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x5e ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000      0x7eb ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000      0x3fa ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000      0x14d ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000      0x114 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x28 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000      0x120 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000      0x24f ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x12 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000      0x18f ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000       0x16 ./build/system_stm32l0xx.o
+ .debug_macro   0x00000000      0x123 ./build/system_stm32l0xx.o
+ .data          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/libgcc.a(_udivsi3.o)
+ .bss           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/libgcc.a(_udivsi3.o)
+ .data          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/libgcc.a(_dvmd_tls.o)
+ .text          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memset.o)
+ .text.memset   0x00000000      0x118 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x30 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000      0x264 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtend.o
+ .data          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtend.o
+ .bss           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtend.o
+ .eh_frame      0x00000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtend.o
+ .jcr           0x00000000        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtend.o
+ .text          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtn.o
+ .data          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtn.o
+ .bss           0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00008000         xr
+RAM              0x20000000         0x00002000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crti.o
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtbegin.o
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/crt0.o
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libm.a
+LOAD ./build/main.o
+LOAD ./build/startup_stm32l031xx.o
+LOAD ./build/stm32l0xx_hal.o
+LOAD ./build/stm32l0xx_hal_cortex.o
+LOAD ./build/stm32l0xx_hal_gpio.o
+LOAD ./build/stm32l0xx_hal_rcc.o
+LOAD ./build/stm32l0xx_it.o
+LOAD ./build/stm32l0xx_nucleo_32.o
+LOAD ./build/system_stm32l0xx.o
+START GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/libgcc.a
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a
+END GROUP
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtend.o
+LOAD /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtn.o
+                0x20002000                _estack = 0x20002000
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000       0xc0
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000       0xc0 ./build/startup_stm32l031xx.o
+                0x08000000                g_pfnVectors
+                0x080000c0                . = ALIGN (0x4)
+
+.text           0x080000c0     0x1530
+                0x080000c0                . = ALIGN (0x4)
+ *(.text)
+ .text          0x080000c0       0x60 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtbegin.o
+ .text          0x08000120       0x9c /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/libgcc.a(_udivsi3.o)
+                0x08000120                __udivsi3
+                0x08000120                __aeabi_uidiv
+                0x080001a8                __aeabi_uidivmod
+ .text          0x080001bc        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/libgcc.a(_dvmd_tls.o)
+                0x080001bc                __aeabi_ldiv0
+                0x080001bc                __aeabi_idiv0
+ *(.text*)
+ .text.main     0x080001c0       0xd4 ./build/main.o
+                0x080001c0                main
+ .text.SystemClock_Config
+                0x08000294      0x120 ./build/main.o
+                0x08000294                SystemClock_Config
+ .text.Reset_Handler
+                0x080003b4       0x50 ./build/startup_stm32l031xx.o
+                0x080003b4                Reset_Handler
+ .text.Default_Handler
+                0x08000404        0x2 ./build/startup_stm32l031xx.o
+                0x08000404                ADC1_COMP_IRQHandler
+                0x08000404                PVD_IRQHandler
+                0x08000404                I2C1_IRQHandler
+                0x08000404                SPI1_IRQHandler
+                0x08000404                EXTI2_3_IRQHandler
+                0x08000404                RTC_IRQHandler
+                0x08000404                DMA1_Channel4_5_6_7_IRQHandler
+                0x08000404                EXTI4_15_IRQHandler
+                0x08000404                RCC_IRQHandler
+                0x08000404                DMA1_Channel1_IRQHandler
+                0x08000404                Default_Handler
+                0x08000404                TIM22_IRQHandler
+                0x08000404                EXTI0_1_IRQHandler
+                0x08000404                TIM21_IRQHandler
+                0x08000404                WWDG_IRQHandler
+                0x08000404                LPUART1_IRQHandler
+                0x08000404                TIM2_IRQHandler
+                0x08000404                DMA1_Channel2_3_IRQHandler
+                0x08000404                USART2_IRQHandler
+                0x08000404                FLASH_IRQHandler
+                0x08000404                LPTIM1_IRQHandler
+ *fill*         0x08000406        0x2 00
+ .text.HAL_Init
+                0x08000408       0x28 ./build/stm32l0xx_hal.o
+                0x08000408                HAL_Init
+ .text.HAL_MspInit
+                0x08000430        0x8 ./build/stm32l0xx_hal.o
+                0x08000430                HAL_MspInit
+ .text.HAL_InitTick
+                0x08000438       0x3c ./build/stm32l0xx_hal.o
+                0x08000438                HAL_InitTick
+ .text.HAL_IncTick
+                0x08000474       0x18 ./build/stm32l0xx_hal.o
+                0x08000474                HAL_IncTick
+ .text.HAL_GetTick
+                0x0800048c       0x14 ./build/stm32l0xx_hal.o
+                0x0800048c                HAL_GetTick
+ .text.HAL_Delay
+                0x080004a0       0x2c ./build/stm32l0xx_hal.o
+                0x080004a0                HAL_Delay
+ .text.NVIC_SetPriority
+                0x080004cc       0xe0 ./build/stm32l0xx_hal_cortex.o
+ .text.SysTick_Config
+                0x080005ac       0x48 ./build/stm32l0xx_hal_cortex.o
+ .text.HAL_NVIC_SetPriority
+                0x080005f4       0x2c ./build/stm32l0xx_hal_cortex.o
+                0x080005f4                HAL_NVIC_SetPriority
+ .text.HAL_SYSTICK_Config
+                0x08000620       0x1c ./build/stm32l0xx_hal_cortex.o
+                0x08000620                HAL_SYSTICK_Config
+ .text.HAL_GPIO_Init
+                0x0800063c      0x2f4 ./build/stm32l0xx_hal_gpio.o
+                0x0800063c                HAL_GPIO_Init
+ .text.HAL_GPIO_ReadPin
+                0x08000930       0x3c ./build/stm32l0xx_hal_gpio.o
+                0x08000930                HAL_GPIO_ReadPin
+ .text.HAL_GPIO_TogglePin
+                0x0800096c       0x24 ./build/stm32l0xx_hal_gpio.o
+                0x0800096c                HAL_GPIO_TogglePin
+ .text.HAL_RCC_OscConfig
+                0x08000990      0x654 ./build/stm32l0xx_hal_rcc.o
+                0x08000990                HAL_RCC_OscConfig
+ .text.HAL_RCC_ClockConfig
+                0x08000fe4      0x218 ./build/stm32l0xx_hal_rcc.o
+                0x08000fe4                HAL_RCC_ClockConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x080011fc      0x128 ./build/stm32l0xx_hal_rcc.o
+                0x080011fc                HAL_RCC_GetSysClockFreq
+ .text.HAL_RCC_GetHCLKFreq
+                0x08001324       0x34 ./build/stm32l0xx_hal_rcc.o
+                0x08001324                HAL_RCC_GetHCLKFreq
+ .text.NMI_Handler
+                0x08001358        0x8 ./build/stm32l0xx_it.o
+                0x08001358                NMI_Handler
+ .text.HardFault_Handler
+                0x08001360        0x8 ./build/stm32l0xx_it.o
+                0x08001360                HardFault_Handler
+ .text.SVC_Handler
+                0x08001368        0x8 ./build/stm32l0xx_it.o
+                0x08001368                SVC_Handler
+ .text.PendSV_Handler
+                0x08001370        0x8 ./build/stm32l0xx_it.o
+                0x08001370                PendSV_Handler
+ .text.SysTick_Handler
+                0x08001378        0xc ./build/stm32l0xx_it.o
+                0x08001378                SysTick_Handler
+ .text.SystemInit
+                0x08001384       0x78 ./build/system_stm32l0xx.o
+                0x08001384                SystemInit
+ .text.__register_exitproc
+                0x080013fc       0xc4 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__atexit.o)
+                0x080013fc                __register_exitproc
+ .text.__libc_fini_array
+                0x080014c0       0x60 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-fini.o)
+                0x080014c0                __libc_fini_array
+ .text.__libc_init_array
+                0x08001520       0x90 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+                0x08001520                __libc_init_array
+ .text.startup.register_fini
+                0x080015b0       0x18 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x080015c8       0x10 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o)
+                0x080015c8                atexit
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x080015d8        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtbegin.o
+ *(.init)
+ .init          0x080015d8        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crti.o
+                0x080015d8                _init
+ .init          0x080015dc        0x8 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtn.o
+ *(.fini)
+ .fini          0x080015e4        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crti.o
+                0x080015e4                _fini
+ .fini          0x080015e8        0x8 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtn.o
+                0x080015f0                . = ALIGN (0x4)
+                0x080015f0                _etext = .
+
+.vfp11_veneer   0x080015f0        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x080015f0        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x080015f0        0x0
+ .iplt          0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtbegin.o
+
+.rodata         0x080015f0       0x34
+                0x080015f0                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x080015f0       0x10 ./build/stm32l0xx_hal_rcc.o
+ .rodata        0x08001600       0x1c ./build/system_stm32l0xx.o
+                0x08001600                AHBPrescTable
+                0x08001610                PLLMulTable
+ *(.rodata*)
+ .rodata.str1.4
+                0x0800161c        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x08001620        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+                0x08001620                _global_impure_ptr
+                0x08001624                . = ALIGN (0x4)
+
+.rel.dyn        0x08001624        0x0
+ .rel.iplt      0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08001624        0x0
+                0x08001624                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08001624                __exidx_end = .
+
+.preinit_array  0x08001624        0x0
+                0x08001624                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x08001624                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x08001624        0x8
+                0x08001624                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x08001624        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x08001628        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtbegin.o
+                0x0800162c                PROVIDE (__init_array_end, .)
+
+.fini_array     0x0800162c        0x4
+                0x0800162c                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0800162c        0x4 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtbegin.o
+                0x08001630                PROVIDE (__fini_array_end, .)
+                0x08001630                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x430 load address 0x08001630
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000        0x4 ./build/system_stm32l0xx.o
+                0x20000000                SystemCoreClock
+ *(.data*)
+ *fill*         0x20000004        0x4 00
+ .data.impure_data
+                0x20000008      0x428 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+                0x20000430                . = ALIGN (0x4)
+                0x20000430                _edata = .
+
+.jcr            0x20000430        0x0 load address 0x08001a60
+ .jcr           0x20000430        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtbegin.o
+
+.igot.plt       0x20000430        0x0 load address 0x08001a60
+ .igot.plt      0x00000000        0x0 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtbegin.o
+                0x20000430                . = ALIGN (0x4)
+
+.bss            0x20000430       0x34 load address 0x08001a60
+                0x20000430                _sbss = .
+                0x20000430                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000430       0x1c /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtbegin.o
+ .bss           0x2000044c       0x14 ./build/main.o
+ .bss           0x20000460        0x4 ./build/stm32l0xx_hal.o
+ *(.bss*)
+ *(COMMON)
+                0x20000464                . = ALIGN (0x4)
+                0x20000464                _ebss = .
+                0x20000464                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20000464      0x600 load address 0x08001a60
+                0x20000464                . = ALIGN (0x4)
+                0x20000464                PROVIDE (end, .)
+                0x20000464                PROVIDE (_end, .)
+                0x20000664                . = (. + _Min_Heap_Size)
+ *fill*         0x20000464      0x200 00
+                0x20000a64                . = (. + _Min_Stack_Size)
+ *fill*         0x20000664      0x400 00
+                0x20000a64                . = ALIGN (0x4)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x28
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1e /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crti.o
+ .ARM.attributes
+                0x0000001e       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x32 ./build/main.o
+ .ARM.attributes
+                0x0000007c       0x22 ./build/startup_stm32l031xx.o
+ .ARM.attributes
+                0x0000009e       0x32 ./build/stm32l0xx_hal.o
+ .ARM.attributes
+                0x000000d0       0x32 ./build/stm32l0xx_hal_cortex.o
+ .ARM.attributes
+                0x00000102       0x32 ./build/stm32l0xx_hal_gpio.o
+ .ARM.attributes
+                0x00000134       0x32 ./build/stm32l0xx_hal_rcc.o
+ .ARM.attributes
+                0x00000166       0x32 ./build/stm32l0xx_it.o
+ .ARM.attributes
+                0x00000198       0x32 ./build/system_stm32l0xx.o
+ .ARM.attributes
+                0x000001ca       0x1e /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x000001e8       0x1e /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000206       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000232       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000025e       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000028a       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x000002b6       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000002e2       0x2c /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000030e       0x1e /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/crtn.o
+OUTPUT(build/STM32L031K6_NUCLEO.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x284a
+ .debug_info    0x00000000      0x55e ./build/main.o
+ .debug_info    0x0000055e       0x61 ./build/startup_stm32l031xx.o
+ .debug_info    0x000005bf      0x771 ./build/stm32l0xx_hal.o
+ .debug_info    0x00000d30      0x70a ./build/stm32l0xx_hal_cortex.o
+ .debug_info    0x0000143a      0x689 ./build/stm32l0xx_hal_gpio.o
+ .debug_info    0x00001ac3      0x8c4 ./build/stm32l0xx_hal_rcc.o
+ .debug_info    0x00002387      0x148 ./build/stm32l0xx_it.o
+ .debug_info    0x000024cf      0x37b ./build/system_stm32l0xx.o
+
+.debug_abbrev   0x00000000      0xa22
+ .debug_abbrev  0x00000000      0x127 ./build/main.o
+ .debug_abbrev  0x00000127       0x12 ./build/startup_stm32l031xx.o
+ .debug_abbrev  0x00000139      0x1c5 ./build/stm32l0xx_hal.o
+ .debug_abbrev  0x000002fe      0x20d ./build/stm32l0xx_hal_cortex.o
+ .debug_abbrev  0x0000050b      0x1ad ./build/stm32l0xx_hal_gpio.o
+ .debug_abbrev  0x000006b8      0x216 ./build/stm32l0xx_hal_rcc.o
+ .debug_abbrev  0x000008ce       0x5f ./build/stm32l0xx_it.o
+ .debug_abbrev  0x0000092d       0xf5 ./build/system_stm32l0xx.o
+
+.debug_loc      0x00000000      0xfee
+ .debug_loc     0x00000000       0x72 ./build/main.o
+ .debug_loc     0x00000072      0x4e0 ./build/stm32l0xx_hal.o
+ .debug_loc     0x00000552      0x468 ./build/stm32l0xx_hal_cortex.o
+ .debug_loc     0x000009ba      0x1c0 ./build/stm32l0xx_hal_gpio.o
+ .debug_loc     0x00000b7a      0x284 ./build/stm32l0xx_hal_rcc.o
+ .debug_loc     0x00000dfe      0x18c ./build/stm32l0xx_it.o
+ .debug_loc     0x00000f8a       0x64 ./build/system_stm32l0xx.o
+
+.debug_aranges  0x00000000      0x360
+ .debug_aranges
+                0x00000000       0x28 ./build/main.o
+ .debug_aranges
+                0x00000028       0x28 ./build/startup_stm32l031xx.o
+ .debug_aranges
+                0x00000050       0xf0 ./build/stm32l0xx_hal.o
+ .debug_aranges
+                0x00000140       0xc0 ./build/stm32l0xx_hal_cortex.o
+ .debug_aranges
+                0x00000200       0x58 ./build/stm32l0xx_hal_gpio.o
+ .debug_aranges
+                0x00000258       0x80 ./build/stm32l0xx_hal_rcc.o
+ .debug_aranges
+                0x000002d8       0x60 ./build/stm32l0xx_it.o
+ .debug_aranges
+                0x00000338       0x28 ./build/system_stm32l0xx.o
+
+.debug_ranges   0x00000000      0x2e8
+ .debug_ranges  0x00000000       0x18 ./build/main.o
+ .debug_ranges  0x00000018       0x20 ./build/startup_stm32l031xx.o
+ .debug_ranges  0x00000038       0xe0 ./build/stm32l0xx_hal.o
+ .debug_ranges  0x00000118       0xb0 ./build/stm32l0xx_hal_cortex.o
+ .debug_ranges  0x000001c8       0x48 ./build/stm32l0xx_hal_gpio.o
+ .debug_ranges  0x00000210       0x70 ./build/stm32l0xx_hal_rcc.o
+ .debug_ranges  0x00000280       0x50 ./build/stm32l0xx_it.o
+ .debug_ranges  0x000002d0       0x18 ./build/system_stm32l0xx.o
+
+.debug_macro    0x00000000     0xa866
+ .debug_macro   0x00000000      0x21a ./build/main.o
+ .debug_macro   0x0000021a      0x7e4 ./build/main.o
+ .debug_macro   0x000009fe       0x8a ./build/main.o
+ .debug_macro   0x00000a88       0x2e ./build/main.o
+ .debug_macro   0x00000ab6       0x28 ./build/main.o
+ .debug_macro   0x00000ade       0x3a ./build/main.o
+ .debug_macro   0x00000b18       0x10 ./build/main.o
+ .debug_macro   0x00000b28       0x2e ./build/main.o
+ .debug_macro   0x00000b56       0xa2 ./build/main.o
+ .debug_macro   0x00000bf8      0x20e ./build/main.o
+ .debug_macro   0x00000e06       0x34 ./build/main.o
+ .debug_macro   0x00000e3a       0x26 ./build/main.o
+ .debug_macro   0x00000e60      0x329 ./build/main.o
+ .debug_macro   0x00001189     0x3c33 ./build/main.o
+ .debug_macro   0x00004dbc       0x3c ./build/main.o
+ .debug_macro   0x00004df8     0x31a7 ./build/main.o
+ .debug_macro   0x00007f9f       0x10 ./build/main.o
+ .debug_macro   0x00007faf       0x89 ./build/main.o
+ .debug_macro   0x00008038       0x10 ./build/main.o
+ .debug_macro   0x00008048       0x3a ./build/main.o
+ .debug_macro   0x00008082       0x52 ./build/main.o
+ .debug_macro   0x000080d4       0x19 ./build/main.o
+ .debug_macro   0x000080ed      0x16d ./build/main.o
+ .debug_macro   0x0000825a       0x10 ./build/main.o
+ .debug_macro   0x0000826a       0xf5 ./build/main.o
+ .debug_macro   0x0000835f       0x22 ./build/main.o
+ .debug_macro   0x00008381       0x91 ./build/main.o
+ .debug_macro   0x00008412       0x16 ./build/main.o
+ .debug_macro   0x00008428      0x16d ./build/main.o
+ .debug_macro   0x00008595       0x5e ./build/main.o
+ .debug_macro   0x000085f3      0x7eb ./build/main.o
+ .debug_macro   0x00008dde      0x3fa ./build/main.o
+ .debug_macro   0x000091d8      0x14d ./build/main.o
+ .debug_macro   0x00009325      0x114 ./build/main.o
+ .debug_macro   0x00009439       0x28 ./build/main.o
+ .debug_macro   0x00009461      0x120 ./build/main.o
+ .debug_macro   0x00009581      0x24f ./build/main.o
+ .debug_macro   0x000097d0       0x12 ./build/main.o
+ .debug_macro   0x000097e2      0x18f ./build/main.o
+ .debug_macro   0x00009971       0x16 ./build/main.o
+ .debug_macro   0x00009987      0x123 ./build/main.o
+ .debug_macro   0x00009aaa       0xb2 ./build/main.o
+ .debug_macro   0x00009b5c      0x22b ./build/stm32l0xx_hal.o
+ .debug_macro   0x00009d87      0x207 ./build/stm32l0xx_hal_cortex.o
+ .debug_macro   0x00009f8e      0x240 ./build/stm32l0xx_hal_gpio.o
+ .debug_macro   0x0000a1ce      0x267 ./build/stm32l0xx_hal_rcc.o
+ .debug_macro   0x0000a435      0x224 ./build/stm32l0xx_it.o
+ .debug_macro   0x0000a659      0x20d ./build/system_stm32l0xx.o
+
+.debug_line     0x00000000     0x2a9e
+ .debug_line    0x00000000      0x515 ./build/main.o
+ .debug_line    0x00000515       0x7a ./build/startup_stm32l031xx.o
+ .debug_line    0x0000058f      0x69f ./build/stm32l0xx_hal.o
+ .debug_line    0x00000c2e      0x66e ./build/stm32l0xx_hal_cortex.o
+ .debug_line    0x0000129c      0x62a ./build/stm32l0xx_hal_gpio.o
+ .debug_line    0x000018c6      0x786 ./build/stm32l0xx_hal_rcc.o
+ .debug_line    0x0000204c      0x584 ./build/stm32l0xx_it.o
+ .debug_line    0x000025d0      0x4ce ./build/system_stm32l0xx.o
+
+.debug_str      0x00000000    0x41d46
+ .debug_str     0x00000000    0x40f1a ./build/main.o
+                              0x411db (size before relaxing)
+ .debug_str     0x00040f1a      0x525 ./build/stm32l0xx_hal.o
+                              0x4112e (size before relaxing)
+ .debug_str     0x0004143f      0x1fa ./build/stm32l0xx_hal_cortex.o
+                              0x40e65 (size before relaxing)
+ .debug_str     0x00041639      0x23a ./build/stm32l0xx_hal_gpio.o
+                              0x40e1e (size before relaxing)
+ .debug_str     0x00041873      0x3cd ./build/stm32l0xx_hal_rcc.o
+                              0x41111 (size before relaxing)
+ .debug_str     0x00041c40       0xb7 ./build/stm32l0xx_it.o
+                              0x40fc6 (size before relaxing)
+ .debug_str     0x00041cf7       0x4f ./build/system_stm32l0xx.o
+                              0x40bb1 (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ./build/main.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./build/stm32l0xx_hal.o
+ .comment       0x00000000       0x71 ./build/stm32l0xx_hal_cortex.o
+ .comment       0x00000000       0x71 ./build/stm32l0xx_hal_gpio.o
+ .comment       0x00000000       0x71 ./build/stm32l0xx_hal_rcc.o
+ .comment       0x00000000       0x71 ./build/stm32l0xx_it.o
+ .comment       0x00000000       0x71 ./build/system_stm32l0xx.o
+
+.debug_frame    0x00000000      0xb40
+ .debug_frame   0x00000000       0x50 ./build/main.o
+ .debug_frame   0x00000050      0x318 ./build/stm32l0xx_hal.o
+ .debug_frame   0x00000368      0x2a4 ./build/stm32l0xx_hal_cortex.o
+ .debug_frame   0x0000060c      0x110 ./build/stm32l0xx_hal_gpio.o
+ .debug_frame   0x0000071c      0x194 ./build/stm32l0xx_hal_rcc.o
+ .debug_frame   0x000008b0      0x10c ./build/stm32l0xx_it.o
+ .debug_frame   0x000009bc       0x4c ./build/system_stm32l0xx.o
+ .debug_frame   0x00000a08       0x20 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/armv6-m/libgcc.a(_udivsi3.o)
+ .debug_frame   0x00000a28       0x38 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000a60       0x34 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-fini.o)
+ .debug_frame   0x00000a94       0x30 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-init.o)
+ .debug_frame   0x00000ac4       0x54 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000b18       0x28 /usr/bin/../lib/gcc/arm-none-eabi/4.7.4/../../../../arm-none-eabi/lib/armv6-m/libc.a(lib_a-atexit.o)
